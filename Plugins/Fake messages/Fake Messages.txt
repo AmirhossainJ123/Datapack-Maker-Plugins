@@ -7,4 +7,5 @@ Jefferson left the game.
 Jefferson was slain by Jeferson
 
 stuff like that
-Install: []
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/Fake%20messages/fakemessages.js ]
