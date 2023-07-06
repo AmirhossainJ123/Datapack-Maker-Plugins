@@ -1,0 +1,10 @@
+this plugin gives you the ability to create fake death/join/leave/sent message for or by a player!
+with the colors and hoverable name and clickable /tell command! for example you can create these messages
+
+Jeferson joined the game.
+Jefferson left the game.
+<Jeferson> Hi guys come to 1929 150 9192 I found a floating island
+Jefferson was slain by Jeferson
+
+stuff like that
+Install: []
