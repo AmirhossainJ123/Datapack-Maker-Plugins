@@ -1,3 +1,0 @@
-this plugin is not yet made but will be made soon, it lets you detect what player did what
-like for example what player has health of 20 (full) or what player killed someone or what player has DeathCount of 200
-etc

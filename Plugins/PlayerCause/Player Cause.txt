@@ -1,0 +1,18 @@
+this plugin adds the ability to detect what player currently did what
+for example
+
+run the next command as who ever's health is above 18
+run the next command as who ever's health is below 10
+run the next command as who ever's health is above or equal 5
+run the next command as who ever's health is 1
+run the next command as who ever's armor is 0
+run the next command as who ever's armor is above 0
+run the next command as who ever's food is 0
+run the next command as who ever's food is below 20
+run the next command as who has just died
+run the next command as who has just killed a person
+run the next command as who has just killed someone
+run the next command as who has just snuck
+
+yep pretty much more coming later
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/PlayerCause/playercause.js ]
