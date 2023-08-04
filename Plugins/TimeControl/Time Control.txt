@@ -4,4 +4,4 @@ or have 20 minutes timer or something like that, this is one of the most importa
 
 This plugin is still in development but you can still setup timers and stuff
 
-Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/TimeControl/timecontrol.js ]
+Installation: [ https://amirhossainj123.github.io/DPPlugins/timecontrol.js ]

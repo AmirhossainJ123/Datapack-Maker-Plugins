@@ -15,4 +15,4 @@ run the next command as who has just killed someone
 run the next command as who has just snuck
 
 yep pretty much more coming later
-Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/PlayerCause/playercause.js ]
+Installation: [ https://amirhossainj123.github.io/DPPlugins/playercause.js ]

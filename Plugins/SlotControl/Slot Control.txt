@@ -3,4 +3,4 @@ like changing slots of a chest dispenser or checking if player has something in 
 
 this plugin is still in development so don't expect much!
 
-Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/SlotControl/inventory.js ]
+Installation: [ https://amirhossainj123.github.io/DPPlugins/inventory.js ]
