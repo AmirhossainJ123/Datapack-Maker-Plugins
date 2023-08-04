@@ -1,0 +1,3 @@
+I think its obv, it adds moderations, like Ban, BanIp, Kick, etc
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/Moderations/moderations.js ]

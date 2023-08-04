@@ -1,0 +1,5 @@
+This theme's actual purpose of creation has been a mystery for long maybe it has to do something about the other creator of the project 🤔
+
+find out now!
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/EpicTheme/epictheme.js ]

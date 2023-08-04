@@ -1,0 +1,4 @@
+This is the lite version the main version is not free
+No Other Explanation is needed fr
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/WhiteTheme/whitetheme.js ]

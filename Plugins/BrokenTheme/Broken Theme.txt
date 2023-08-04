@@ -1,0 +1,3 @@
+Just adds a very broken theme nothing else
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/BrokenTheme/broken.js ]

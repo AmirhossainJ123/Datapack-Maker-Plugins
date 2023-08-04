@@ -1,0 +1,6 @@
+This plugin gives you the ability to check and change slots of different things
+like changing slots of a chest dispenser or checking if player has something in its inventory or is holding certain things
+
+this plugin is still in development so don't expect much!
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/SlotControl/inventory.js ]

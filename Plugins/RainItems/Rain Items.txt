@@ -1,0 +1,3 @@
+This plugin adds a single button which lets you rain items at different places and different amounts!
+
+Installation: [ https://raw.githubusercontent.com/AmirhossainJ123/Datapack-Maker-Plugins/main/Plugins/RainItems/rainitems.js ]
