@@ -1,5 +1,5 @@
 it adds destructive functions! for example you can spawn a nuke or like anvil rain or like create disasters and etc check it out its useful!
 
-* NOTE: this is a pretty heavy and powerful plugin and its not yet ready and fully coded so if you install it, it will not work!!!
+* NOTE: this is a pretty heavy and powerful plugin and its not yet ready and fully coded so if you install it, it MIGHT not work!!!
 
 Installation: [ https://amirhossainj123.github.io/DPPlugins/destructions.js ]
